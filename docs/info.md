@@ -9,11 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The inputs correspond to bits, and it's combined with half adders and full adders to produce a four-bit added output.
 
 ## How to test
 
-Explain how to use your project
+Set the inputs on or off and check if the output represents their sum in binary.
+
+Where out0 is LSB, and out2 is the MSB.
 
 ## External hardware
 
